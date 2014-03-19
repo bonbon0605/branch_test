@@ -4,3 +4,6 @@ master:
 
 patch1:
   first commit
+
+patch2:
+  first commit
