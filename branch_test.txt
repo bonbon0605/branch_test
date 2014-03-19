@@ -5,3 +5,6 @@ master:
 develop:
   first commit
   second commit
+
+develop-patch1:
+  first commit
