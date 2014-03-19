@@ -1,2 +1,6 @@
-branch test first commit
-second commit
+master:
+  branch test first commit
+  second commit
+
+patch1:
+  first commit
