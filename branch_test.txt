@@ -10,4 +10,5 @@ develop-patch1:
   first commit
 
 develop-patch2:
-  first commi
+  first commit
+  second commit
