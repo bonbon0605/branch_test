@@ -7,3 +7,4 @@ patch1:
 
 patch2:
   first commit
+  second commit
